@@ -1,4 +1,4 @@
-package maven-archetype-webapp;
+package maven-archetype-webapp
 
 /**
  * Hello world!
@@ -11,4 +11,4 @@ public class App
         System.out.println( "Hello World!" );
     }
 }
-;
+
