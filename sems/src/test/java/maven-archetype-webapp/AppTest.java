@@ -1,4 +1,4 @@
-package maven-archetype-webapp;
+
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
